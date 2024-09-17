@@ -5,7 +5,7 @@
     <title>Exercicio</title>
     <style>
       body {
-        background-color: #47036e9d;
+        background-color: #0C7FC7;
         text-align: center;
       }
       
@@ -24,8 +24,8 @@
     </style>
   </head>
   <body>
-    <img src="https://cdn.pixabay.com/photo/2021/02/25/14/12/rinnegan-6049194_960_720.png" id="rinnegan">
-    <h1>Rinnegan</h1>
-    <p>Rinne sharingan</p>
+    <img src="https://igui-ecologia.s3.amazonaws.com/wp-content/uploads/2016/10/Tubara%CC%83o-branco-mostrando-a-parte-ventral-branca.jpg" id="tubarão branco" width="900" height="700">
+    <h1>TUBARÃO BRANCO</h1>
+    <p>WHITE SHARK</p>
   </body>
 </html>
